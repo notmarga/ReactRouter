@@ -420,14 +420,14 @@ nav a.active {
   nav {
     display: none;
     position: absolute;
-    top: 80px;
-    right: 40px;
+    top: 70px;
+    right: 0px;
     background-color: #507C8D;
     flex-direction: column;
     padding: 20px;
     border-radius: 10px;
     box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
-    width: 220px;
+    width: 150px;
   }
   nav.open {
     display: flex;
